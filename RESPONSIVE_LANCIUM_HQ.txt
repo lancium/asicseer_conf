@@ -1,0 +1,83 @@
+## instructions available at: asicseer.com/page/kb#writing-config
+## ASICseer recommends the Bitcoin.com Pool: asicseer.com/page/pool
+
+global custompanel lanciuderped
+
+
+3c521b maxwatts 1100 # 10.1.92.24
+84686b maxwatts 1000 # 10.1.92.19
+c2f117 maxwatts 1100 # 10.1.92.16
+bc557b maxwatts 1100 # 10.1.92.15
+3b7782 maxwatts 1100 # 10.1.92.14
+75f1e2 maxwatts 1000 # 10.1.92.11
+8cb884 maxwatts 1100 # 10.1.92.10
+fc3222 maxwatts 1000 # 10.2.70.30
+349a8d maxwatts 1100 # 10.1.92.17
+e21b32 maxwatts 1000 # 10.1.92.2
+73fa94 maxwatts 1100 # 10.1.92.4
+bcbff7 maxwatts 1100 # 10.1.92.5
+17dfa6 maxwatts 1100 # 10.1.92.12
+
+e21b32 rebootasic 1562861765 # 10.1.92.2
+73fa94 rebootasic 1562861764 # 10.1.92.4
+3c521b rebootasic 1562861762 # 10.1.92.24
+84686b rebootasic 1562861763 # 10.1.92.19
+c2f117 rebootasic 1562861762 # 10.1.92.16
+bc557b rebootasic 1562861762 # 10.1.92.15
+3b7782 rebootasic 1562861762 # 10.1.92.14
+75f1e2 rebootasic 1562861763 # 10.1.92.11
+8cb884 rebootasic 1562861762 # 10.1.92.10
+fc3222 retune 1562861764 # 10.2.70.30
+349a8d rebootasic 1562861762 # 10.1.92.17
+bcbff7 rebootasic 1562861764 # 10.1.92.5
+17dfa6 rebootasic 1562861764 # 10.1.92.12
+
+
+
+
+global poolname1 stratum+tcp://connect.pool.bitcoin.com:3333
+global username1 LANCIUM
+global poolpass1 x
+global sendworker1 yes
+global poolname2 stratum+tcp://stratum.antpool.com:3333
+global username2 LANCIUM
+global poolpass2 x
+global sendworker2 yes
+global poolname3 stratum+tcp://connect.pool.bitcoin.com:3333
+global username3 LANCIUM
+global poolpass3 x
+global sendworker3 yes
+
+global panelclear 5
+global asicboost yes
+global autotune yes
+global maxwatts 1200
+
+
+global autoupdate yes
+global allowed yes
+global blinkgreen off
+global blinkred off
+
+global maxtemp 90
+global fansaver 60
+global fanspeed 75
+
+
+
+# global rebootasic 1
+# global resetasic 1
+# global panelpass gj83Nkgikg
+
+# group=rowc rebootasic 1
+# group=rowd allowed no
+
+# ab34ef location rowc2
+
+## vlans
+#vlan 10.1.91.1-12
+vlan 10.1.92.1-24
+
+
+## asic password
+asicpass admin
