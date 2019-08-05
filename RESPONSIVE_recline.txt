@@ -7,14 +7,14 @@ global poolname1 stratum+tcp://connect.pool.bitcoin.com:3333
 global username1 recline
 global poolpass1 x
 global sendworker1 yes
-global poolname2 stratum+tcp://stratum.antpool.com:3333
-global username2 LANCIUM
+global poolname2 stratum+tcp://stratum.slushpool.com:3333
+global username2 recline
 global poolpass2 x
 global sendworker2 yes
 global poolname3 stratum+tcp://connect.pool.bitcoin.com:3333
 global username3 LANCIUM
 global poolpass3 x
-global sendworker3 yes
+global sendworker3 no
 
 global panelclear 5
 global asicboost yes
