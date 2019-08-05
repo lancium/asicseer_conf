@@ -1,0 +1,51 @@
+## instructions available at: asicseer.com/page/kb#writing-config
+## ASICseer recommends the Bitcoin.com Pool: asicseer.com/page/pool
+
+global custompanel reclinderped
+
+global poolname1 stratum+tcp://connect.pool.bitcoin.com:3333
+global username1 recline
+global poolpass1 x
+global sendworker1 yes
+global poolname2 stratum+tcp://stratum.antpool.com:3333
+global username2 LANCIUM
+global poolpass2 x
+global sendworker2 yes
+global poolname3 stratum+tcp://connect.pool.bitcoin.com:3333
+global username3 LANCIUM
+global poolpass3 x
+global sendworker3 yes
+
+global panelclear 5
+global asicboost yes
+global autotune yes
+global maxwatts 1450
+
+
+global autoupdate yes
+global allowed yes
+global blinkgreen off
+global blinkred off
+
+global maxtemp 90
+global fansaver 70
+global fanspeed 75
+
+
+
+# global rebootasic 1
+# global resetasic 1
+# global panelpass gj83Nkgikg
+
+# group=rowc rebootasic 1
+# group=rowd allowed no
+
+# ab34ef location rowc2
+
+## vlans
+vlan 10.1.91.13-24
+
+
+
+## asic password
+asicpass admin
