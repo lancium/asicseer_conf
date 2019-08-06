@@ -20,6 +20,8 @@ global panelclear 5
 global asicboost yes
 global autotune yes
 global maxwatts 1450
+global maxtemp 90 1
+global throttle 50
 
 
 global autoupdate yes
@@ -27,7 +29,6 @@ global allowed yes
 global blinkgreen off
 global blinkred off
 
-global maxtemp 90
 global fansaver 70
 global fanspeed 75
 
