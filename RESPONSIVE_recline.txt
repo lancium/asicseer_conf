@@ -4,8 +4,9 @@
 global custompanel reclinderped
 
 # Retune
-global rebootasic 1565106856
-global retune 1565106855
+global rebootasic 1565106857
+global resetasic 1565106857
+global retune 1565106857
 
 
 
