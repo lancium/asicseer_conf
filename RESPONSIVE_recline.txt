@@ -4,7 +4,7 @@
 global custompanel reclinderped
 
 # Retune
-global rebootasic 1565106855
+global rebootasic 1565106856
 global retune 1565106855
 
 
@@ -25,7 +25,7 @@ global sendworker3 no
 global panelclear 5
 global asicboost yes
 global autotune yes
-global maxwatts 1450
+global maxwatts 1400
 global maxtemp 95
 
 
