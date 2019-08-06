@@ -3,6 +3,10 @@
 
 global custompanel reclinderped
 
+# Retune
+global retune 1565106851
+
+
 global poolname1 stratum+tcp://connect.pool.bitcoin.com:3333
 global username1 recline
 global poolpass1 x
