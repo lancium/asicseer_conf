@@ -55,7 +55,7 @@ global maxwatts 1200
 
 
 global autoupdate yes
-global allowed yes
+global allowed no
 global blinkgreen off
 global blinkred off
 
