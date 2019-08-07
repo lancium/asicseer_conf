@@ -6,28 +6,38 @@ global custompanel reclinderped
 
 
 # generated on Aug 07 2019 14:44:29 utc
-6165c6 maxwatts 1300 # 10.1.22.5
+6165c6 maxwatts 1200 # 10.1.22.5
+73abb0 maxwatts 1300 # 10.1.22.8
 26a0c0 maxwatts 1300 # 10.1.22.9
-bc2810 maxwatts 1300 # 10.1.25.24
+14714e maxwatts 1200 # 10.1.22.12
+64a48a maxwatts 1300 # 10.1.23.7
+2b1edc maxwatts 1300 # 10.1.25.23
+bc2810 maxwatts 1200 # 10.1.25.24
 9ff918 maxwatts 1300 # 10.1.91.12
 104df6 maxwatts 1300 # 10.1.91.16
+58801e maxwatts 1300 # 10.1.91.17
 b24740 maxwatts 1300 # 10.1.91.18
 c6d24e maxwatts 1300 # 10.1.91.19
 b09c90 maxwatts 1300 # 10.1.91.20
 5b9b1b maxwatts 1300 # 10.1.91.21
 1a6a9e maxwatts 1300 # 10.1.91.22
-68a767 maxwatts 1300 # 10.1.91.23
-6165c6 rebootasic 1565189069 # 10.1.22.5
+68a767 maxwatts 1200 # 10.1.91.23
+6165c6 rebootasic 1565189070 # 10.1.22.5
+73abb0 rebootasic 1565189069 # 10.1.22.8
 26a0c0 rebootasic 1565189069 # 10.1.22.9
-bc2810 rebootasic 1565189069 # 10.1.25.24
+14714e rebootasic 1565189069 # 10.1.22.12
+64a48a rebootasic 1565189069 # 10.1.23.7
+2b1edc rebootasic 1565189069 # 10.1.25.23
+bc2810 rebootasic 1565189070 # 10.1.25.24
 9ff918 rebootasic 1565189069 # 10.1.91.12
 104df6 rebootasic 1565189069 # 10.1.91.16
+58801e rebootasic 1565189069 # 10.1.91.17
 b24740 rebootasic 1565189069 # 10.1.91.18
 c6d24e rebootasic 1565189069 # 10.1.91.19
 b09c90 rebootasic 1565189069 # 10.1.91.20
 5b9b1b rebootasic 1565189069 # 10.1.91.21
 1a6a9e rebootasic 1565189069 # 10.1.91.22
-68a767 rebootasic 1565189069 # 10.1.91.23
+68a767 rebootasic 1565189070 # 10.1.91.23
 global resetasic 1565183646
 
 global poolname1 stratum+tcp://connect.pool.bitcoin.com:3333
