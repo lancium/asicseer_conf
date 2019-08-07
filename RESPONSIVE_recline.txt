@@ -35,7 +35,7 @@ global blinkgreen off
 global blinkred off
 
 global fansaver 70
-global fanspeed 75
+global fanspeed 80
 
 
 
