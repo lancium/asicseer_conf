@@ -4,11 +4,9 @@
 global custompanel reclinderped
 
 # Retune
-global rebootasic 1565106858
-global resetasic 1565106857
-global retune 1565106857
 
 
+b24740 resetasic 1565183646
 
 global poolname1 stratum+tcp://connect.pool.bitcoin.com:3333
 global username1 recline
