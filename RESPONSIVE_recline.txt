@@ -5,7 +5,7 @@ global custompanel reclinderped
 
 
 
-
+66ae7b resetasic 1565218226
 global rebootasic 1565218226
 
 global poolname1 stratum+tcp://connect.pool.bitcoin.com:3333
