@@ -17,7 +17,7 @@ global username2 recline
 global poolpass2 x
 global sendworker2 yes
 global poolname3 stratum+tcp://connect.pool.bitcoin.com:3333
-global username3 LANCIUM
+global username3 recline
 global poolpass3 x
 global sendworker3 no
 
