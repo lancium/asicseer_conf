@@ -52,7 +52,7 @@ global fanspeed 80
 # global panelpass gj83Nkgikg
 
 # group=rowc rebootasic 1
-# group=rowd allowed no
+# group=rowd allowed yes
 
 # ab34ef location rowc2
 
