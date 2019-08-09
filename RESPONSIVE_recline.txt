@@ -4,9 +4,20 @@
 global custompanel reclinderped
 
 
+0a32df rebootasic 1565360693
+dbd32b rebootasic 1565360693
+6165c6 rebootasic 1565360693
+968e58 rebootasic 1565360693
+74c6c1 rebootasic 1565360693
+2b1edc rebootasic 1565360693
+8b3c3a rebootasic 1565360693
+c08f60 rebootasic 1565360693
+0bca8a rebootasic 1565360693
+9ff918 rebootasic 1565360693
+c6d24e rebootasic 1565360693
+b09c90 rebootasic 1565360693
+68a767 rebootasic 1565360693
 
-66ae7b resetasic 1565218226
-global rebootasic 1565218226
 
 global poolname1 stratum+tcp://connect.pool.bitcoin.com:3333
 global username1 recline
