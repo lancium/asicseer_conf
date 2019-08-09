@@ -10,11 +10,12 @@ bc2810 maxwatts 1100 # 10.1.25.24
 0bca8a maxwatts 1100 # 10.1.91.11
 b6af65 maxwatts 1100 # 10.1.22.6
 64e9f1 maxwatts 1100 # 10.1.22.7
-0b8d09 maxwatts 1100 # 10.1.23.1
 
 
 
-607a32 retune 1565367995 # 10.1.23.6
+
+
+0b8d09 retune 1565367995 # 10.1.23.1
 
 global poolname1 stratum+tcp://connect.pool.bitcoin.com:3333
 global username1 recline
