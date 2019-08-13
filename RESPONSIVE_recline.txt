@@ -27,6 +27,7 @@ b24740 rebootasic 1565702405 # 10.1.91.18 lmf01023506
 c6d24e rebootasic 1565702405 # 10.1.91.19 lmf01023507
 b09c90 rebootasic 1565702405 # 10.1.91.20 lmf01023508
 5b9b1b rebootasic 1565702405 # 10.1.91.21 lmf01023509
+968e58 resetasic 1565702405
 
 
 
@@ -35,7 +36,7 @@ b09c90 rebootasic 1565702405 # 10.1.91.20 lmf01023508
 # generated on Aug 09 2019 16:25:21 utc: 1565367921
 #4911d9 maxwatts 1100 # 10.1.23.12
 #0bca8a maxwatts 1100 # 10.1.91.11
-35e698 maxwatts 1100 # 10.1.91.1 "does not work at 1000"
+35e698 maxwatts 1200 # 10.1.91.1 "does not work at 1000"
 
 
 
