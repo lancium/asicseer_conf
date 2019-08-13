@@ -53,7 +53,7 @@ global maxtemp 95
 
 
 global autoupdate yes
-global allowed yes
+global allowed no
 global blinkgreen off
 global blinkred off
 
