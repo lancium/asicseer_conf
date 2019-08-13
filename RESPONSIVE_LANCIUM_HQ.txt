@@ -38,12 +38,12 @@ global sendworker3 yes
 
 global panelclear 5
 global asicboost yes
-global autotune no
+global autotune yes
 global maxwatts 1200
 
 
 global autoupdate yes
-global allowed yes
+global allowed no
 global blinkgreen off
 global blinkred off
 
