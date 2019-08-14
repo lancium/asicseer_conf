@@ -27,10 +27,6 @@ bc557b rebootasic 1565799623 # 10.1.92.15 lmf01044503
 3c521b rebootasic 1565799623 # 10.1.92.24 lmf01044512
 
 
-
-
-
-
 global poolname1 stratum+tcp://connect.pool.bitcoin.com:3333
 global username1 LANCIUM
 global poolpass1 x
@@ -51,7 +47,7 @@ global maxwatts 1200
 
 
 global autoupdate yes
-global allowed no
+global allowed yes
 global blinkgreen off
 global blinkred off
 
