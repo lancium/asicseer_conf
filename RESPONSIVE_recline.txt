@@ -5,23 +5,11 @@ global custompanel reclinderped
 
 
 
-
-# generated on Aug 13 2019 17:00:33 utc 1565715633
-dfb112 rebootasic 1565715633 # 10.1.25.14 lmf01bb0502
-62054b rebootasic 1565715633 # 10.1.25.16 lmf01bb0504
-9b3b1e rebootasic 1565715633 # 10.1.91.15 lmf01023503
-104df6 rebootasic 1565715633 # 10.1.91.16 lmf01023504
-58801e rebootasic 1565715633 # 10.1.91.17 lmf01023505
-b24740 rebootasic 1565715633 # 10.1.91.18 lmf01023506
-
-
-
-
-
 # generated on Aug 09 2019 16:25:21 utc: 1565367921
 #4911d9 maxwatts 1100 # 10.1.23.12
 #0bca8a maxwatts 1100 # 10.1.91.11
-35e698 maxwatts 1200 # 10.1.91.1 "does not work at 1000"
+35e698 maxwatts 1100 # 10.1.91.1 "does not work at 1000"
+88d8b0 maxwatts 1100 # 10.1.91.13
 
 
 
