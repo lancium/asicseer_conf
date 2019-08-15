@@ -18,13 +18,7 @@ e21b32 maxwatts 1000 # 10.1.92.2
 bcbff7 maxwatts 1100 # 10.1.92.5
 17dfa6 maxwatts 1100 # 10.1.92.12
 
-# generated on Aug 14 2019 16:20:23 utc 1565799623
-e21b32 rebootasic 1565799623 # 10.1.92.2 lmf01044402
-8cb884 rebootasic 1565799623 # 10.1.92.10 lmf01044410
-3b7782 rebootasic 1565799623 # 10.1.92.14 lmf01044502
-bc557b rebootasic 1565799623 # 10.1.92.15 lmf01044503
-84686b rebootasic 1565799623 # 10.1.92.19 lmf01044507
-3c521b rebootasic 1565799623 # 10.1.92.24 lmf01044512
+d63bae retune 1565875084
 
 
 global poolname1 stratum+tcp://connect.pool.bitcoin.com:3333
