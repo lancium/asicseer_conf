@@ -18,8 +18,8 @@ e21b32 maxwatts 1000 # 10.1.92.2
 bcbff7 maxwatts 1100 # 10.1.92.5
 17dfa6 maxwatts 1100 # 10.1.92.12
 
-d63bae retune 1565875084
-17dfa6 blinkgreen ip
+
+17dfa6 retune 1565875084
 
 
 global poolname1 stratum+tcp://connect.pool.bitcoin.com:3333
