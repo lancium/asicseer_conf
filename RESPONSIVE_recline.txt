@@ -6,6 +6,7 @@ global custompanel reclinderped
 2b1edc retune 1565963105
 832779 retune 1565963105
 
+global rebootasic 1565963105
 
 
 # generated on Aug 09 2019 16:25:21 utc: 1565367921
@@ -44,7 +45,7 @@ global maxtemp 90
 
 
 global autoupdate yes
-global allowed no
+global allowed yes
 global blinkgreen off
 global blinkred off
 
