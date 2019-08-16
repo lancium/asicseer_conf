@@ -3,6 +3,7 @@
 
 global custompanel lanciuderped
 
+global rebootasic 1565963105
 
 3c521b maxwatts 1100 # 10.1.92.24
 84686b maxwatts 1000 # 10.1.92.19
@@ -42,7 +43,7 @@ global maxwatts 1200
 
 
 global autoupdate yes
-global allowed no
+global allowed yes
 global blinkgreen off
 global blinkred off
 
