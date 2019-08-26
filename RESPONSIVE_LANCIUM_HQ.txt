@@ -3,7 +3,14 @@
 
 global custompanel lanciuderped
 
-global rebootasic 1565963105
+# generated on Aug 26 2019 13:17:37 utc 1566825457
+fc3222 rebootasic 1566825457 # 10.2.70.30 lmf01ta0403
+e21b32 rebootasic 1566825457 # 10.1.92.2 lmf01044402
+31bdb3 rebootasic 1566825457 # 10.1.92.6 lmf01044406
+9efb53 rebootasic 1566825457 # 10.1.92.9 lmf01044409
+8cb884 rebootasic 1566825457 # 10.1.92.10 lmf01044410
+e81f49 rebootasic 1566825457 # 10.1.92.18 lmf01044506
+3c521b rebootasic 1566825457 # 10.1.92.24 lmf01044512
 
 3c521b maxwatts 1100 # 10.1.92.24
 84686b maxwatts 1000 # 10.1.92.19
@@ -20,7 +27,7 @@ bcbff7 maxwatts 1100 # 10.1.92.5
 17dfa6 maxwatts 1100 # 10.1.92.12
 
 
-17dfa6 retune 1565875084
+
 
 
 global poolname1 stratum+tcp://connect.pool.bitcoin.com:3333
