@@ -3,25 +3,12 @@
 
 global custompanel reclinderped
 
-607a32 resetasic 1567092161
-607a32 retune 1567092161
-607a32 rebootasic 1567092161
 
-cfb317 resetasic 1567092161
-cfb317 retune 1567092161
+
+cfb317 resetasic 1567092162
+cfb317 retune 1567092162
 cfb317 rebootasic 1567092161
 
-832779 resetasic 1567092161
-832779 retune 1567092161
-832779 rebootasic 1567092161
-
-88d8b0 resetasic 1567092161
-88d8b0 retune 1567092161
-88d8b0 rebootasic 1567092161
-
-81a55a resetasic 1567092161
-81a55a retune 1567092161
-81a55a rebootasic 1567092161
 
 
 
