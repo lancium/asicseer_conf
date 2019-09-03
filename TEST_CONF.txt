@@ -4,8 +4,8 @@
 global custompanel lanciuderped
 
 #MINER CONFIGURATION FROM LANCIUM MONITORING SYSTEM DO NOT INCLUDE ANYTHING BEFORE THIS LINE
-e21b32 allowed no 
-99748d allowed no 
+e21b32 allowed yes 
+99748d allowed yes 
 
 d63bae maxwatts 1400
 d63bae retune 1567182981
