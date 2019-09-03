@@ -28,7 +28,8 @@ cfb317 rebootasic 1567092161
 
 
 
-global poolname1 stratum+tcp://connect.pool.bitcoin.com:3333
+#global poolname1 stratum+tcp://connect.pool.bitcoin.com:3333
+global poolname1 stratum+tcp://stratum.slushpool.com:3333
 global username1 recline
 global poolpass1 x
 global sendworker1 yes
