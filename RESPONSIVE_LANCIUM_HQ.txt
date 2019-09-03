@@ -36,8 +36,7 @@ bcbff7 maxwatts 1100 # 10.1.92.5
 
 
 
-#global poolname1 stratum+tcp://connect.pool.bitcoin.com:3333
-global poolname1 stratum+tcp://stratum.antpool.com:3333
+global poolname1 stratum+tcp://connect.pool.bitcoin.com:3333
 global username1 LANCIUM
 global poolpass1 x
 global sendworker1 yes
