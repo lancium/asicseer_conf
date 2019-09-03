@@ -16,6 +16,7 @@ e21b32 allowed yes
 
 d63bae maxwatts 1400
 d63bae retune 1567182981
+d63bae resetasic 1567182982
 
 3c521b maxwatts 1100 # 10.1.92.24
 84686b maxwatts 1000 # 10.1.92.19
