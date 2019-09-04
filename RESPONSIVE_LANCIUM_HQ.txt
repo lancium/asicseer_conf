@@ -14,9 +14,9 @@ bcbff7 allowed yes
 e21b32 allowed yes 
 99748d allowed yes 
 
-d63bae maxwatts 1400
-d63bae resetasic 1567182983
-d63bae retune 1567182983
+d63bae maxwatts 1200
+d63bae resetasic 1567182984
+d63bae retune 1567182984
 
 3c521b maxwatts 1100 # 10.1.92.24
 84686b maxwatts 1000 # 10.1.92.19
