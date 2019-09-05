@@ -7,11 +7,9 @@ global custompanel reclinderped
 
 
 
-cfb317 resetasic 1567092162
-cfb317 retune 1567092162
-cfb317 rebootasic 1567092161
 
 
+global retune 1567705955
 
 
 # generated on Aug 09 2019 16:25:21 utc: 1565367921
