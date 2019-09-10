@@ -33,21 +33,21 @@ e21b32 allowed yes
 
 d63bae maxwatts 1000
 d63bae resetasic 1567182985
-global retune 1567182986
+global retune 1567182987
 
-3c521b maxwatts 1100 # 10.1.92.24
-84686b maxwatts 1000 # 10.1.92.19
-c2f117 maxwatts 1100 # 10.1.92.16
-bc557b maxwatts 1100 # 10.1.92.15
-3b7782 maxwatts 1100 # 10.1.92.14
-75f1e2 maxwatts 1000 # 10.1.92.11
-8cb884 maxwatts 1100 # 10.1.92.10
-fc3222 maxwatts 1000 # 10.2.70.30
-349a8d maxwatts 1100 # 10.1.92.17
-e21b32 maxwatts 1000 # 10.1.92.2
-73fa94 maxwatts 1100 # 10.1.92.4
-bcbff7 maxwatts 1100 # 10.1.92.5
-17dfa6 maxwatts 1100 # 10.1.92.12
+#3c521b maxwatts 1100 # 10.1.92.24
+#84686b maxwatts 1000 # 10.1.92.19
+#c2f117 maxwatts 1100 # 10.1.92.16
+#bc557b maxwatts 1100 # 10.1.92.15
+#3b7782 maxwatts 1100 # 10.1.92.14
+#75f1e2 maxwatts 1000 # 10.1.92.11
+#8cb884 maxwatts 1100 # 10.1.92.10
+#fc3222 maxwatts 1000 # 10.2.70.30
+#349a8d maxwatts 1100 # 10.1.92.17
+#e21b32 maxwatts 1000 # 10.1.92.2
+#73fa94 maxwatts 1100 # 10.1.92.4
+#bcbff7 maxwatts 1100 # 10.1.92.5
+#17dfa6 maxwatts 1100 # 10.1.92.12
 
 
 
@@ -69,7 +69,7 @@ global sendworker3 yes
 global panelclear 5
 global asicboost yes
 global autotune yes
-global maxwatts 1200
+global maxwatts 1450
 
 
 global autoupdate yes
