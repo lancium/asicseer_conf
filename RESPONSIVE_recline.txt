@@ -105,7 +105,7 @@ global panelclear 5
 global asicboost yes
 global autotune yes
 global maxwatts 1100
-global maxtemp 90
+global maxtemp 90 1
 
 
 
