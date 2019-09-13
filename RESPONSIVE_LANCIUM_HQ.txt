@@ -91,7 +91,7 @@ global blinkred off
 global maxtemp 90
 global fansaver 60
 global fanspeed 75
-
+global maxtemp 90 1
 
 
 # global rebootasic 1
