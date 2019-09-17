@@ -77,14 +77,12 @@ global retune 1567705955
 #0bca8a maxwatts 1100 # 10.1.91.11
 35e698 maxwatts 1200 # 10.1.91.1 "does not work at 1000"
 88d8b0 maxwatts 1200 # 10.1.91.13
+64e9f1 maxwatts 1200
 
 
 
 
-# generated on Sep 11 2019 02:06:41 utc: 1568167601 1568167601
-c08f60 rebootasic 1568167601 # 10.1.91.10 lmf01023410
-0bca8a rebootasic 1568167601 # 10.1.91.11 lmf01023411
-9ff918 rebootasic 1568167601 # 10.1.91.12 lmf01023412
+
 
 
 
