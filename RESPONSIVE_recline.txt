@@ -69,7 +69,7 @@ dbd32b allowed yes
 
 
 
-global retune 1567705955
+
 
 
 # generated on Aug 09 2019 16:25:21 utc: 1565367921
