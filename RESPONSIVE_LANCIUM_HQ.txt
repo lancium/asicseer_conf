@@ -93,8 +93,8 @@ global maxwatts 1450
 
 global autoupdate yes
 global allowed yes
-global blinkgreen off
-global blinkred off
+global blinkgreen hashrate
+global blinkred idle
 
 global maxtemp 90 1
 global fansaver 60
