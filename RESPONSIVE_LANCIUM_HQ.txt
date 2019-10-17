@@ -38,17 +38,7 @@ e21b32 allowed no
 
 d63bae maxwatts 1000
 
-# generated on Sep 30 2019 15:09:03 utc: 1569856143 1569856143
-99748d rebootasic 1569856143 # 10.1.92.1 lmf01044401
-e21b32 rebootasic 1569856143 # 10.1.92.2 lmf01044402
-3dccfd rebootasic 1569856143 # 10.1.92.3 lmf01044403
-73fa94 rebootasic 1569856143 # 10.1.92.4 lmf01044404
-31bdb3 rebootasic 1569856143 # 10.1.92.6 lmf01044406
-53b79b rebootasic 1569856143 # 10.1.92.7 lmf01044407
-9efb53 rebootasic 1569856143 # 10.1.92.9 lmf01044409
-8cb884 rebootasic 1569856143 # 10.1.92.10 lmf01044410
-17dfa6 rebootasic 1569856143 # 10.1.92.12 lmf01044412
-3c521b rebootasic 1569856143 # 10.1.92.24 lmf01044512
+
 
 
 # generated on Sep 11 2019 02:53:06 utc: 1568170386: 1568170386
@@ -95,7 +85,7 @@ global autotune yes
 global maxwatts 1450
 
 
-global autoupdate yes
+global autoupdate no
 global allowed yes
 global blinkgreen hashrate
 global blinkred idle
