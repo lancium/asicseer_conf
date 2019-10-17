@@ -4,6 +4,10 @@
 global custompanel lanciuderped
 
 #MINER CONFIGURATION FROM LANCIUM MONITORING SYSTEM DO NOT INCLUDE ANYTHING BEFORE THIS LINE
+013289cd7d57c51f allowed no 
+0133da92d1d8cf07 allowed no 
+013146822f1f490a allowed no 
+013111d9eece57b4 allowed no 
 
 d63bae allowed yes 
 fc3222 allowed yes 
