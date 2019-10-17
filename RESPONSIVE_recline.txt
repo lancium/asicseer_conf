@@ -69,7 +69,11 @@ dbd32b allowed yes
 
 
 
-
+# s_reboot generated on Oct 17 2019 18:05:33 utc: 1571335533
+968e58 rebootasic 1571335533 # 10.1.22.11 lmf01ba0211
+81a55a rebootasic 1571335533 # 10.1.24.18 lmf01bb0406
+0bca8a rebootasic 1571335533 # 10.1.91.11 lmf01023411
+9ff918 rebootasic 1571335533 # 10.1.91.12 lmf01023412
 
 
 
