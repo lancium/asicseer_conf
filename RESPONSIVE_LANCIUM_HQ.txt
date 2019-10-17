@@ -34,7 +34,7 @@ bcbff7 allowed yes
 73fa94 allowed yes 
 3dccfd allowed yes 
 e21b32 allowed yes 
-99748d allowed no 
+99748d allowed yes 
 
 d63bae maxwatts 1000
 
