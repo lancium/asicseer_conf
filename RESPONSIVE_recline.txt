@@ -115,8 +115,8 @@ global maxtemp 90 1
 
 global autoupdate no
 global allowed yes
-global blinkgreen off
-global blinkred off
+global blinkgreen hashrate
+global blinkred idle
 
 global fansaver 70
 global fanspeed 80
