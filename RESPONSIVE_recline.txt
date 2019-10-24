@@ -4,8 +4,6 @@
 global custompanel reclinderped
 
 #MINER CONFIGURATION FROM LANCIUM MONITORING SYSTEM DO NOT INCLUDE ANYTHING BEFORE THIS LINE
-
-
 c6aabb allowed yes 
 68a767 allowed yes 
 1a6a9e allowed yes 
