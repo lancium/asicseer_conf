@@ -2,7 +2,7 @@
 ## ASICseer recommends the Bitcoin.com Pool: asicseer.com/page/pool
 
 global custompanel reclinderped
-global retune 1572265488
+607a32 retune 1572265490
 
 
 #MINER CONFIGURATION FROM LANCIUM MONITORING SYSTEM DO NOT INCLUDE ANYTHING BEFORE THIS LINE
